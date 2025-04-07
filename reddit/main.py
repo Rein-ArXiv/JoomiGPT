@@ -10,7 +10,7 @@ reddit = praw.Reddit(
 )
 
 # 설정
-keyword = "artificial intelligence"
+keyword = "food"
 subreddit_name = "all"
 limit = 100
 
