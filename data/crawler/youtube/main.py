@@ -24,11 +24,7 @@ RAW_DIR.mkdir(parents=True, exist_ok=True)
 
 # ─── ② API 키 로테이터 & 상수 정의 ───────────────────
 API_KEYS = [
-    "AIzaSyBjofHdSDlES3jHZnYU10GTb1V4equvfv8",
-    "AIzaSyDlBNowOaVVCY0FLSt_qioMfqSZyATg4MM",
-    "AIzaSyCOOMBn0UklXORCV-Yarznb3oSAV3ry8W4",
-    "AIzaSyCfi9Pbe_xqLf2Yvgv_Sa06WsML8SlqBEw",
-    "AIzaSyAsyCgVa6KaTEEFzdliMcwPMUGOigJ1ass"
+    
 ]
 
 QUERY_TEMPLATES = [
